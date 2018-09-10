@@ -1,0 +1,1 @@
+	Create a stateful parent controller with 2 stateless child components. Pass props and handlers from parent to child. 
